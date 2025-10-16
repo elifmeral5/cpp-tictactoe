@@ -1,0 +1,147 @@
+Welcome to Tic-Tac-Toe
+What would you like to do?
+1. Play New Game
+2. Quit
+1
+
+
+
+What symbol would you like to be? (X or O)
+X
+Current board:
+_ _ _ 
+_ _ _ 
+_ _ _ 
+Player X, enter row and column (0-2): -1 2
+Invalid move. Try again.
+Current board:
+_ _ _ 
+_ _ _ 
+_ _ _ 
+Player X, enter row and column (0-2): 0 3
+Invalid move. Try again.
+Current board:
+_ _ _ 
+_ _ _ 
+_ _ _ 
+Player X, enter row and column (0-2): 1 1
+Current board:
+_ _ _ 
+_ X _ 
+_ _ _ 
+Player O, enter row and column (0-2): 0 0
+Current board:
+O _ _ 
+_ X _ 
+_ _ _ 
+Player X, enter row and column (0-2): 1 1
+Invalid move. Try again.
+Current board:
+O _ _ 
+_ X _ 
+_ _ _ 
+Player X, enter row and column (0-2): 0 0
+Invalid move. Try again.
+Current board:
+O _ _ 
+_ X _ 
+_ _ _ 
+Player X, enter row and column (0-2): 0 2
+Current board:
+O _ X 
+_ X _ 
+_ _ _ 
+Player O, enter row and column (0-2): 0 2
+Invalid move. Try again.
+Current board:
+O _ X 
+_ X _ 
+_ _ _ 
+Player O, enter row and column (0-2): 2 0
+Current board:
+O _ X 
+_ X _ 
+O _ _ 
+Player X, enter row and column (0-2): 0 1
+Current board:
+O X X 
+_ X _ 
+O _ _ 
+Player O, enter row and column (0-2): 1 0
+Current board:
+O X X 
+O X _ 
+O _ _ 
+Player O wins!
+Thank you for playing Tic-Tac-Toe
+What would you like to do?
+1. Play New Game
+2. Quit
+What would you like to do?
+1. Play New Game
+2. Quit
+What would you like to do?
+1. Play New Game
+2. Quit
+1
+
+
+
+What symbol would you like to be? (X or O)
+O
+Current board:
+_ _ _ 
+_ _ _ 
+_ _ _ 
+Player O, enter row and column (0-2): 1 1
+Current board:
+_ _ _ 
+_ O _ 
+_ _ _ 
+Player X, enter row and column (0-2): 0 0
+Current board:
+X _ _ 
+_ O _ 
+_ _ _ 
+Player O, enter row and column (0-2): 2 0
+Current board:
+X _ _ 
+_ O _ 
+O _ _ 
+Player X, enter row and column (0-2): 0 2
+Current board:
+X _ X 
+_ O _ 
+O _ _ 
+Player O, enter row and column (0-2): 0 1
+Current board:
+X O X 
+_ O _ 
+O _ _ 
+Player X, enter row and column (0-2): 2 1
+Current board:
+X O X 
+_ O _ 
+O X _ 
+Player O, enter row and column (0-2): 1 2
+Current board:
+X O X 
+_ O O 
+O X _ 
+Player X, enter row and column (0-2): 1 0
+Current board:
+X O X 
+X O O 
+O X _ 
+Player O, enter row and column (0-2): 2 2
+Current board:
+X O X 
+X O O 
+O X O 
+The game is a draw!
+Thank you for playing Tic-Tac-Toe
+What would you like to do?
+1. Play New Game
+2. Quit
+2
+Thank you for playing Tic-Tac-Toe
